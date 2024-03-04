@@ -1,1 +1,1 @@
-Проект "Закрывающий тэг" ../slozhno-sosredotochitsya/README.md
+Проект "Закрывающий тэг" https://github.com/Moonwalk3r/zakrivayuschiy-teg-f
