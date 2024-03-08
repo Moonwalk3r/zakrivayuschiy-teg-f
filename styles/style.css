@@ -392,6 +392,11 @@
     width: 100%;
   }
 
+  .image__block:after {
+    top: 25px;
+    right: 13px;
+  }
+
   .footer-button {
     flex-direction: column;
   }
@@ -413,6 +418,10 @@
 
   .header__logo {
     margin-top: 134px;
+  }
+  .image__block:after {
+    top: 25px;
+    right: 25px;
   }
 
   .footer-button {
